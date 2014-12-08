@@ -63,6 +63,7 @@ class Installer extends LibraryInstaller
         'wolfcms'      => 'WolfCMSInstaller',
         'wordpress'    => 'WordPressInstaller',
         'zend'         => 'ZendInstaller',
+        'surveygenerate'=>'SurveyGenerateInstaller',
         'zikula'       => 'ZikulaInstaller',
     );
 
